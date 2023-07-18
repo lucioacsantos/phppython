@@ -1,2 +1,3 @@
 # phppython
-Scripts PHP executando Scripts Python
+
+Modernizando e Adicionando Funcionalidades do Python nos Sistemas em PHP
